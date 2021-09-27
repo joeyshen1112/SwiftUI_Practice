@@ -13,8 +13,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         // 我是main
-        // 我是main2
-        // test2
     }
 
 
