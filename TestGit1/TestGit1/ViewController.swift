@@ -12,8 +12,12 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+<<<<<<< HEAD
         // 我是main
         // 我是main2
+=======
+        // test2
+>>>>>>> feature/test2
     }
 
 
