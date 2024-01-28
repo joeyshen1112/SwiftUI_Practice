@@ -1,13 +1,13 @@
 //
-//  TestGit1UITests.swift
-//  TestGit1UITests
+//  SwiftUIFirstDemoUITests.swift
+//  SwiftUIFirstDemoUITests
 //
-//  Created by 沈志陽 on 2021/9/27.
+//  Created by JoeyShen on 2024/1/28.
 //
 
 import XCTest
 
-class TestGit1UITests: XCTestCase {
+final class SwiftUIFirstDemoUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
@@ -27,7 +27,6 @@ class TestGit1UITests: XCTestCase {
         let app = XCUIApplication()
         app.launch()
 
-        // Use recording to get started writing UI tests.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
 
